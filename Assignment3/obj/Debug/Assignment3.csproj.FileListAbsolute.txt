@@ -1,0 +1,9 @@
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.csprojResolveAssemblyReference.cache
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.Form1.resources
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.GenerateResource.Cache
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\Assignment3\Assignment3\bin\Debug\RayTracing.exe.config
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\Assignment3\Assignment3\bin\Debug\RayTracing.exe
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\Assignment3\Assignment3\bin\Debug\RayTracing.pdb
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\Assignment3\Assignment3\obj\Debug\RayTracing.exe
+C:\Users\TUSHAR\Documents\Visual Studio 2017\Projects\Assignment3\Assignment3\obj\Debug\RayTracing.pdb
